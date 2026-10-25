@@ -3,6 +3,7 @@
 .dev.env
 *.env.local
 node_modules/
+/result
 
 # Exclude markdown files by default (design notes, architecture
 # docs, battle reports, CLAUDE.md, READMEs). Published docs ship
